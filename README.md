@@ -20,11 +20,10 @@ An open-source, customizable ESP32-based macropad for controlling apps, shortcut
 - Optional: LEDs, buttons, and other hardware for custom build
 
 ## How does it work?
-I made the buttons (and one encoder) act as Shift+Ctrl+Alt+F1-F12 keys so they are easily detectable and they are not interrupting any shortcuts.
-When u have a mechanical switch like me, it works the same as touching two wires: one to GND and one to a GPIO. If they touch the esp sends a key to your computer.
-The encoders should work the same and usually there are S1, S2 and KEY pins that work like: clockwise rotation, counter-clockwise rotation, key press.
-The battery indicator is 2 wires taken from the battery and using 2 resistors connected and then plugged into the GPIO35 that detects voltage and counts the precentage.
-Everything is working on Bluetooth. Not possible using usb, unless you customize it and use a usb HID compatible esp board.
+- I made the buttons (and one encoder) act as Shift+Ctrl+Alt+F1-F12 keys so they are easily detectable and they are not interrupting any shortcuts. When u have a mechanical switch like me, it works the same as touching two wires: one to GND and one to a GPIO. If they touch the esp sends a key to your computer.
+- The encoders should work the same and usually there are S1, S2 and KEY pins that work like: clockwise rotation, counter-clockwise rotation, key press.
+- The battery indicator is 2 wires taken from the battery and using 2 resistors (10k) connected and then plugged into the GPIO35 that detects voltage and counts the precentage.
+- Everything is working on Bluetooth. Not possible using usb, unless you customize it and use a usb HID compatible esp board.
 
 ## Customizing & building
 I'll add this soon..
