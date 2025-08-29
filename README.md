@@ -1,6 +1,3 @@
-# deck32
-A stream deck like macropad, based on an ESP32 board. 
-
 # Deck32
 An open-source, customizable ESP32-based macropad for controlling apps, shortcuts, and more. Non-commercial use only.
 ![License](https://img.shields.io/badge/License-CC--BY--NC_4.0-lightgrey.svg)
