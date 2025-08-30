@@ -1,6 +1,7 @@
 # Deck32
 ![License](https://img.shields.io/badge/License-CC--BY--NC_4.0-lightgrey.svg)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
+
 An open-source, customizable ESP32-based macropad for controlling apps, shortcuts, and more. Non-commercial use only.
 ## Features
 - Programmable buttons and rotary encoders you can make however you want
