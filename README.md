@@ -30,6 +30,7 @@ An open-source, customizable ESP32-based macropad for controlling apps, shortcut
 ### How to build your custom deck32?
 - First you have to choose what hardware you would like to use - that means how many buttons, button type, what encoders etc.
 - Then you have to adjust the code to your hardware (If you don't want to do this part you can tip me and I will make it for you), it takes some coding understanding. 
+   -- this part requires you to know which gpios are used in the code and which ones are they on your esp32 (it may vary)
 - Soldering, wiring (depending on your build)
 - Making a case, 3D modelling, printing etc.
 - And final step assembling your new macropad!
