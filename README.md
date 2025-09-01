@@ -34,7 +34,7 @@ An open-source, customizable ESP32-based macropad for controlling apps, shortcut
 - Making a case, 3D modelling, printing etc.
 - And final step assembling your new macropad!
 
-If you want me to customize the code to your needs, or make a purchase list or make schemes. Write to me by email - deck32@maksotm.pl - We will discuss about pricing. I accept crypto, any other ways of payment to discuss.
+## If you want me to customize the code to your needs, or make a purchase list or make schemes. Write to me by email - deck32@maksotm.pl - We will discuss about pricing. I accept crypto, any other ways of payment to discuss.
 
 ## Creators/Owners build
 I'll add this soon..
