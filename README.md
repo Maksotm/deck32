@@ -1,4 +1,4 @@
-!(/Deck32 graphic.jpg)
+![Deck32](/Deck32 graphic.jpg)
 # Deck32
 ![License](https://img.shields.io/badge/License-CC--BY--NC_4.0-lightgrey.svg)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
