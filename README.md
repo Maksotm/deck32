@@ -39,7 +39,8 @@ An open-source, customizable ESP32-based macropad for controlling apps, shortcut
 ## If you want me to customize the code to your needs, or make a purchase list or make schemes. Write to me by email - deck32@maksotm.pl - We will discuss about pricing. I accept crypto, any other ways of payment to discuss.
 
 ## Creators/Owners build
-I'll add this soon..
+![Wiring](/deck32_wiring.png)
+
 
 ## Contributing
 - Feel free to suggest fixes or improvements via Issues or Pull Requests.
