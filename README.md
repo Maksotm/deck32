@@ -40,6 +40,9 @@ An open-source, customizable ESP32-based macropad for controlling apps, shortcut
 
 ## Creators/Owners build
 ![Wiring](/deck32_wiring.png)
+![side](/side.jpg)
+![front1](/front1.jpg)
+![front](/front.jpg)
 
 
 ## Contributing
