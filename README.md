@@ -44,6 +44,7 @@ An open-source, customizable ESP32-based macropad for controlling apps, shortcut
 ![front1](/front1.jpg)
 ![front](/front.jpg)
 
+P.S. It's the first project I made, also if u noticed the charging module connection is a bit different because the module doesnt output power unless its plugged to usb and unplugged, to avoid this issue I connected everything to B+ and B-. U can use a module without the OUT+ and OUT- pads
 
 ## Contributing
 - Feel free to suggest fixes or improvements via Issues or Pull Requests.
